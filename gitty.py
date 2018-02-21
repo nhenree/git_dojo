@@ -9,3 +9,6 @@ def add(x, y):
 def introduce():
     name = input("name: ")
     print("Hello %s" % name)
+
+def shout():
+    print('AAAAAAA')
